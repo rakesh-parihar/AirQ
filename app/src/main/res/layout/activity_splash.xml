@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.SplashActivity"
+    android:background="@color/colorBg">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/app_name"
+        android:fontFamily="@font/head_font"
+        android:textSize="60sp"
+        android:textColor="@color/colorLogo"
+        android:shadowColor="@color/colorShadow"
+        android:shadowDx="@integer/dim_shadow_x"
+        android:shadowDy="@integer/dim_shadow_y"
+        android:shadowRadius="@integer/dim_shadow_radius"
+        />
+
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        style="@style/Base.TextAppearance.AppCompat.Large"
+        />
+</RelativeLayout>

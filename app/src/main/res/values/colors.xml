@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DBDFEA</color>
+    <color name="colorPrimaryDark">#DBDFEA</color>
+    <color name="colorAccent">#F8C225</color>
+
+
+    <color name="colorBg">#DBDFEA</color>
+    <color name="colorText">#6F7070</color>
+    <color name="colorLogo">#54B0F3</color>
+    <color name="colorShadow">#99C0F1</color>
+
+    <color name="colorAqiLevel_1">#00AF50</color>
+    <color name="colorAqiLevel_2">#FFFF00</color>
+    <color name="colorAqiLevel_3">#FFC000</color>
+    <color name="colorAqiLevel_4">#FE0000</color>
+    <color name="colorAqiLevel_5">#7030A0</color>
+    <color name="colorAqiLevel_6">#C00000</color>
+
+</resources>
